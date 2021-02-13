@@ -36,10 +36,10 @@ Domestic:
 
 Awards
 ======
+- National Scholarship X2
+- Huawei Scholarship
 - Outstanding Graduate in Beijing
 - Outstanding Graduate in Beijing Normal University 
-- National Scholarship
-- Huawei Scholarship
 - China Youth Scientific and Technological Innovation Award (Xiaoping Deng Innovation Award)
 - ...
 
