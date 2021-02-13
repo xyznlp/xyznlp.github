@@ -14,9 +14,9 @@ Please contact me via (The last three letters of the alphabet) @ mail.bnu.edu.cn
 
 News
 ======
-<font color="red">
-- February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of [MS MARCO Document Ranking](https://microsoft.github.io/msmarco/#docranking). The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model. [Twitter from \@MSMarcoAI](https://twitter.com/MSMarcoAI/status/1359965315875155976)
-</font>
+
+- February 2021: <font color="red">Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of</font> [MS MARCO Document Ranking](https://microsoft.github.io/msmarco/#docranking). <font color="red">The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model.</font> [Twitter from \@MSMarcoAI](https://twitter.com/MSMarcoAI/status/1359965315875155976)
+
 
 Competitions
 ======
