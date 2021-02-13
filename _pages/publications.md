@@ -19,19 +19,19 @@ author_profile: true
 Publications
 ------
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
-in the proceeding of **AAAI 2020**
+In the proceeding of **AAAI 2020**
 
 - **Xuanyu Zhang**, Zhichun Wang. Deep and Wide Interaction Networks for Machine Reading Comprehension (Student)<br/>
-in the proceeding of **AAAI 2020**
+In the proceeding of **AAAI 2020**
 
 - Defu Cao, Jing Huang, **Xuanyu Zhang**, Xianhua Liu. FtclNet: Fourier Transform for Vulnerability Detection<br/>
-in the proceeding of **TrustCom 2020**
+In the proceeding of **TrustCom 2020**
 
 - **Xuanyu Zhang**. MC2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension<br/>
-in the proceeding of **ACL 2019** 
+In the proceeding of **ACL 2019** 
 
 - Chen Zhang, **Xuanyu Zhang**, Hao Wang. A Machine Reading Comprehension-Based Approach for Featured Snippet Extraction<br/>
-in the proceeding of **ICDM 2018**
+In the proceeding of **ICDM 2018**
 
 Competitions
 ------
