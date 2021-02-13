@@ -20,11 +20,11 @@ News
 Competitions
 ======
 International:
-- Microsoft Machine Reading Comprehension (MS MARCO) 1th (February 2021)
-- Microsoft News Recommendation Competition (MIND) 7th (October 2020)
-- Yale Semantic Parsing and Text-to-SQL Challenge (Spider) 4th (June 2019)
-- Stanford Conversational Question Answering Challenge (CoQA) 8th (April 2019)
-- Stanford Question Answering Dataset (SQuAD 1.1) 4th (March 2019)
+- Feb 2021: Microsoft Machine Reading Comprehension (MS MARCO) \- 1st
+- Oct 2020: Microsoft News Recommendation Competition (MIND) \- 7th
+- Jun 2019: Yale Semantic Parsing and Text-to-SQL Challenge (Spider) \- 4th
+- Apr 2019: Stanford Conversational Question Answering Challenge (CoQA) \- 8th 
+- Mar 2019: Stanford Question Answering Dataset (SQuAD 1.1) \- 4th 
 - ...
 
 Domestic:
