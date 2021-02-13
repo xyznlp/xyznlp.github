@@ -35,7 +35,7 @@ in the proceeding of **ICDM 2018**
 
 Competitions
 ======
-International:
+**International:**
 - Feb 2021: Microsoft Machine Reading Comprehension (MS MARCO) \- 1st
 - Oct 2020: Microsoft News Recommendation Competition (MIND) \- 7th
 - Jun 2019: Yale Semantic Parsing and Text-to-SQL Challenge (Spider) \- 4th
@@ -44,7 +44,7 @@ International:
 - Feb 2018: Baidu Chinese Machine Reading Comprehension dataset (DuReader) \- 1st 
 - Dec 2017: CIPS-Sogou Question Answering Competition \- 8th
 
-Domestic:
+**Domestic:**
 - The 11th China Collegiate Programming Contest (CCPC) Northeast Regional \- Third Prize
 - TI Cup - National College Student Internet of Things Design Competition North China Regional - Special Prize
 - The 10th & 11th Collegiate Programming Contest \- Provincial First Prize
