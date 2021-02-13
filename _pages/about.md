@@ -22,7 +22,7 @@ Awards
 - Huawei Scholarship
 - Outstanding Graduate in Beijing
 - Outstanding Graduate in Beijing Normal University 
-- China Youth Scientific and Technological Innovation Award (Xiaoping Deng Innovation Award)
+- China Youth Scientific and Technological Innovation Award (Xiaoping Deng Award)
 
 Community Service
 ======
