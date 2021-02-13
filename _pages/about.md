@@ -13,7 +13,9 @@ Please contact me via (The last three letters of the alphabet) @ mail.bnu.edu.cn
 
 News
 ======
+<font color="#660000">
 - February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of [MS MARCO Document Ranking](https://microsoft.github.io/msmarco/#docranking). The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model. [\[Twitter from @MSMarcoAI\]](https://twitter.com/MSMarcoAI/status/1359965315875155976)
+</font>
 
 Competitions
 ======
@@ -23,14 +25,14 @@ International:
 - Yale Semantic Parsing and Text-to-SQL Challenge (Spider) 4th (June 2019)
 - Stanford Conversational Question Answering Challenge (CoQA) 8th (April 2019)
 - Stanford Question Answering Dataset (SQuAD 1.1) 4th (March 2019)
-...
+- ...
 
 Domestic:
 - The 11th China Collegiate Programming Contest (CCPC) Northeast Regional \- Third Prize
 - TI Cup - National College Student Internet of Things Design Competition North China Regional - Special Prize
 - The 10th & 11th Collegiate Programming Contest \- Provincial First Prize
 - The 6th & 7th Blue Bridge Cup Programming Competition \- Provincial First Prize
-...
+- ...
 
 Awards
 ======
@@ -38,9 +40,10 @@ Awards
 - Outstanding Graduate in Beijing Normal University 
 - National Scholarship
 - Huawei Scholarship
-- Xiaoping Deng Innovation Award 
+- China Youth Scientific and Technological Innovation Award (Xiaoping Deng Innovation Award)
+- ...
 
 Community Service
 ======
-PC Member / Reviewer: ACL 2021, AAAI 2021, CVPR 2021, IEEE TNNLS
-Student Volunteer: ACL 2019
+- PC Member / Reviewer: ACL 2021, AAAI 2021, CVPR 2021, IEEE TNNLS
+- Student Volunteer: ACL 2019
