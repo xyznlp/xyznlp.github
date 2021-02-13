@@ -25,6 +25,8 @@ International:
 - Apr 2019: Stanford Conversational Question Answering Challenge (CoQA) \- 8th 
 - Mar 2019: Stanford Question Answering Dataset (SQuAD 1.1) \- 4th 
 - Feb 2018: Baidu Chinese Machine Reading Comprehension dataset (DuReader) \- 1st 
+- Dec 2017: CIPS-Sogou Question Answering Competition \- 8th
+
 
 Domestic:
 - The 11th China Collegiate Programming Contest (CCPC) Northeast Regional \- Third Prize
