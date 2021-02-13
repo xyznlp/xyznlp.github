@@ -24,6 +24,7 @@ International:
 - Jun 2019: Yale Semantic Parsing and Text-to-SQL Challenge (Spider) \- 4th
 - Apr 2019: Stanford Conversational Question Answering Challenge (CoQA) \- 8th 
 - Mar 2019: Stanford Question Answering Dataset (SQuAD 1.1) \- 4th 
+- Feb 2018: Baidu Chinese Machine Reading Comprehension dataset (DuReader) \- 1st 
 
 Domestic:
 - The 11th China Collegiate Programming Contest (CCPC) Northeast Regional \- Third Prize
