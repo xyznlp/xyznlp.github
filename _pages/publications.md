@@ -17,7 +17,7 @@ author_profile: true
 -->
 
 Publications
-======
+------
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
 in the proceeding of **AAAI 2020**
 
@@ -34,7 +34,7 @@ in the proceeding of **ACL 2019**
 in the proceeding of **ICDM 2018**
 
 Competitions
-======
+------
 **International:**
 - Feb 2021: Microsoft Machine Reading Comprehension (MS MARCO) \- 1st
 - Oct 2020: Microsoft News Recommendation Competition (MIND) \- 7th
