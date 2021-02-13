@@ -19,7 +19,7 @@ News
 
 Awards
 ======
-- National Scholarship X2
+- National Scholarship
 - Huawei Scholarship
 - Outstanding Graduate in Beijing
 - Outstanding Graduate in Beijing Normal University 
