@@ -18,6 +18,9 @@ author_profile: true
 
 Publications
 ------
+- **Xuanyu Zhang**, Qing Yang, Dongliang Xu. Combining Implicit Text Information for News Recommendation<br/>
+In the companion proceeding of **WWW 2021**
+
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
 In the proceeding of **AAAI 2020**
 
