@@ -14,7 +14,7 @@ Please contact me via <font color="blue">(The last three letters of the alphabet
 
 News
 ======
-- <font color="red">February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of MS MARCO Document Ranking. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model.</font> [\[Twitter from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976) [\[Leaderboard\]](https://microsoft.github.io/msmarco/#docranking)
+- <font color="red">February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of MS MARCO Document Ranking. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model.</font> [\[Tweet from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976) [\[Leaderboard\]](https://microsoft.github.io/msmarco/#docranking)
 - February 2021: One paper on recommendation got accepted to WWW'21 companion.
 - January 2021: I served as a reviewer for ACL'21.
 
