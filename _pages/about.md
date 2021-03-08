@@ -28,5 +28,6 @@ Awards
 
 Community Service
 ======
-- PC Member / Reviewer: ACL, AAAI, CVPR, TNNLS (IEEE Transactions on Neural Networks and Learning Systems)
+- PC Member / Reviewer: ACL, AAAI, CVPR, TNNLS
 - Student Volunteer: ACL 2019
+ <!-- (IEEE Transactions on Neural Networks and Learning Systems) --> 
