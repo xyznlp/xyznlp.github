@@ -19,7 +19,7 @@ author_profile: true
 Publications
 ------
 - **Xuanyu Zhang**, et al. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
-In the companion proceeding of **ACM MM 2021**
+In the proceeding of **ACM MM 2021**
 
 - **Xuanyu Zhang**, et al. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
 In the companion proceeding of **WWW 2021**
