@@ -10,6 +10,8 @@ redirect_from:
 
 I am a researcher at DXM AI Lab. Previously, I obtained my master’s degree from Beijing Normal University. I was also an intern at Microsoft Research Asia, Microsoft Xiaoice, Tencent Wechat and 360 Search. I am broadly interested in **Natural Language Processing** (Question Answering, Machine Reading Comprehension, Semantic Parsing, Generation), **Recommendation System** (Sequential Recommendation, User Modeling), **Information Retrieval** and **Multi-Modal** (Vision & Language), etc. 
 
+Please contact me via (The last three letters of the alphabet) (at) <font color="blue">mail.bnu.edu.cn</font>
+
 News
 ======
 - <font color="red">February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of MS MARCO Document Ranking. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model.</font> [\[Tweet from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976)
