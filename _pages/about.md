@@ -19,6 +19,10 @@ News
 - July 2021: One paper on multi-modal got accepted to ACM MM'21.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 
+Publications & Competitions
+======
+[\[Publications & Competitions\]](https://xyznlp.github.io/publications/)
+
 Awards
 ======
 - National Scholarship
