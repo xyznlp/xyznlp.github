@@ -18,6 +18,9 @@ author_profile: true
 
 Publications
 ------
+- **Xuanyu Zhang**, et al. Dynamic Learning for BERT-Based Document Reranking<br/>
+In the proceeding of **CIKM 2021**
+
 - **Xuanyu Zhang**, et al. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
 In the proceeding of **ACM MM 2021**
 
