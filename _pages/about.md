@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at DXM AI Lab. Previously, I obtained my master’s degree from Beijing Normal University. I was also an intern at Microsoft Research Asia, Microsoft Xiaoice, Tencent Wechat and 360 Search. I am broadly interested in **Natural Language Processing** (Question Answering, Machine Reading Comprehension, Semantic Parsing, Generation), **Recommendation System** (Sequential Recommendation, User Modeling), **Information Retrieval** and **Multi-Modal** (Vision & Language), etc. 
-
-Please contact me via (The last three letters of the alphabet) (at) <font color="blue">mail.bnu.edu.cn</font>
+I am a researcher at DXM AI Lab. Previously, I obtained my master’s degree from Beijing Normal University. I was also an intern at Microsoft Research Asia, Microsoft Xiaoice, Tencent Wechat and 360 Search. I am broadly interested in **Natural Language Processing** (Question Answering, Machine Reading Comprehension, Semantic Parsing, Generation), **Recommendation System** (Sequential Recommendation, User Modeling), **Information Retrieval** and **Multi-Modal** (Vision & Language), etc. \[E-mail: xyz (-at~) mail.bnu.edu.cn\]
 
 News
 ======
