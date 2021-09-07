@@ -18,13 +18,13 @@ author_profile: true
 
 Publications
 ------
-- **Xuanyu Zhang**, et al. Dynamic Learning for BERT-Based Document Reranking<br/>
-In the proceeding of **CIKM 2021**
-
-- **Xuanyu Zhang**, et al. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
+- **Xuanyu Zhang**, Qing Yang. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
 In the proceeding of **ACM MM 2021**
 
-- **Xuanyu Zhang**, et al. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
+- **Xuanyu Zhang**, Qing Yang. Dynamic Multi-Granularity Learning for BERT-Based Document Reranking<br/>
+In the proceeding of **CIKM 2021**
+
+- **Xuanyu Zhang**, Qing Yang. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
 In the companion proceeding of **WWW 2021**
 
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
