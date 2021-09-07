@@ -12,11 +12,12 @@ I am a researcher at DXM AI Lab. Previously, I obtained my master’s degree fro
 
 News
 ======
-- <font color="red">February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of MS MARCO Document Ranking. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model.</font> [\[Tweet from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976)
+- February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of MS MARCO Document Ranking. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model. [\[Tweet from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976)
 - February 2021: One paper on recommendation got accepted to WWW'21 companion.
 - July 2021: One paper on multi-modal got accepted to ACM MM'21.
 - August 2021: One paper on ranking got accepted to CIKM'21.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
+<!-- <font color="red"> </font> --> 
 
 Publications & Competitions
 ======
@@ -32,6 +33,6 @@ Awards
 
 Community Service
 ======
-- PC Member / Reviewer: ACL, EMNLP, NLPCC, AAAI, CVPR, TNNLS
+- PC Member / Reviewer: ACL, EMNLP, NLPCC, AAAI, IEEE TNNLS
 - Student Volunteer: ACL 2019
  <!-- (IEEE Transactions on Neural Networks and Learning Systems) --> 
