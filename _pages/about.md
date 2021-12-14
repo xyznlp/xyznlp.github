@@ -34,6 +34,6 @@ Awards
 
 Community Service
 ======
-- PC Member / Reviewer: ACL, EMNLP, NLPCC, AAAI, IEEE TNNLS
+- PC Member / Reviewer: ARR(ACL Rolling Review), ACL, EMNLP, NLPCC, AAAI, IEEE TNNLS
 - Student Volunteer: ACL 2019
  <!-- (IEEE Transactions on Neural Networks and Learning Systems) --> 
