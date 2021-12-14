@@ -16,6 +16,7 @@ News
 - February 2021: One paper on recommendation got accepted to WWW'21 companion.
 - July 2021: One paper on multi-modal got accepted to ACM MM'21.
 - August 2021: One paper on ranking got accepted to CIKM'21.
+- December 2021: We won the championship at the classification leaderboard of CLUE (Chinese Language Understanding Evaluation Benchmark).
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 <!-- <font color="red"> </font> --> 
 
