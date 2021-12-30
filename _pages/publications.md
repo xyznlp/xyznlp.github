@@ -45,6 +45,7 @@ In the proceeding of **ICDM 2018**
 Competitions
 ------
 **International:**
+- Dec 2021: Chinese Language Understanding Evaluation Benchmark (**CLUE**) \- **1st**
 - Feb 2021: Microsoft Machine Reading Comprehension (**MS MARCO**) \- **1st**
 - Oct 2020: Microsoft News Recommendation Competition (**MIND**) \- **7th**
 - Jun 2019: Yale Semantic Parsing and Text-to-SQL Challenge (**Spider**) \- **4th**
