@@ -16,8 +16,8 @@ News
 - February 2021: One paper on recommendation got accepted to **WWW'21 companion**.
 - July 2021: One paper on multi-modal got accepted to **ACM MM'21**.
 - August 2021: One paper on ranking got accepted to **CIKM'21**.
-- December 2021: We won the championship at the classification leaderboard of **CLUE** (Chinese Language Understanding Evaluation Benchmark).
-- December 2021: Our XuanYuan model, based on standard pipeline, surpassed other pre-training models at the leaderboard of **KgCLUE** (Large-scale Knowledge Graph based QA Benchmark) on Dec 15, 2021.
+- December 2021: We won the championship at the classification leaderboard of **CLUE** (Chinese Language Understanding Evaluation Benchmark) with our proposed XuanYuan PLM. [\[CLUE Benchmark\]](https://www.cluebenchmarks.com/classification.html)
+- December 2021: Our XuanYuan model, based on standard pipeline, surpassed other PLMs at the leaderboard of **KgCLUE** (Large-scale Knowledge Graph based QA Benchmark) on Dec 15, 2021.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 <!-- <font color="red"> </font> --> 
 
