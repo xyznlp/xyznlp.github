@@ -27,7 +27,7 @@ In the proceeding of **CIKM 2021**
 - **Xuanyu Zhang**, Qing Yang. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
 In the companion proceeding of **WWW 2021**
 
-- **Xuanyu Zhang**, Qing Yang. Transition-based Knowledge Graph Embedding with Synthetic Relation Representation
+- **Xuanyu Zhang**, Qing Yang. Transition-based Knowledge Graph Embedding with Synthetic Relation Representation<br/>
 In arXiv Preprint **2204.08401**
 
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
