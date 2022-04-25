@@ -12,13 +12,13 @@ I am a senior researcher at DXM AI Lab. Previously, I obtained my master’s deg
 
 News
 ======
-- April 2022: <font color="red">We won the championship at the</font> **ogbl-wikikg2** <font color="red">leaderboard with our proposed</font> **TranS**. [\[Leaderboard\]](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-wikikg2) [\[Paper\]](https://arxiv.org/abs/2204.08401) [\[Code\]](https://github.com/xyznlp/TranS)
 - February 2021: Our team "Xuanyu Zhang - AI-Lab, DXM" won the championship at the leaderboard of **MS MARCO Document Ranking**. The model "DML" achieves 0.416 MRR on the eval set, which has been greatly improved compared with the previous model. [\[Tweet from MS MARCO\]](https://twitter.com/MSMarcoAI/status/1359965315875155976)
 - February 2021: One paper on recommendation got accepted to **WWW'21 companion**.
 - July 2021: One paper on multi-modal got accepted to **ACM MM'21**.
 - August 2021: One paper on ranking got accepted to **CIKM'21**.
 - December 2021: We won the championship at the classification leaderboard of **CLUE** (Chinese Language Understanding Evaluation Benchmark) with our proposed XuanYuan PLM. [\[CLUE Benchmark\]](https://www.cluebenchmarks.com/classification.html)
 - December 2021: Our XuanYuan model, based on standard pipeline, surpassed other PLMs at the leaderboard of **KgCLUE** (Large-scale Knowledge Graph based QA Benchmark) on Dec 15, 2021.
+- April 2022: We won the championship at the **ogbl-wikikg2** leaderboard with our proposed **TranS** model. [\[Leaderboard\]](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-wikikg2) [\[Paper\]](https://arxiv.org/abs/2204.08401) [\[Code\]](https://github.com/xyznlp/TranS)
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 <!-- <font color="red"> </font> --> 
 
