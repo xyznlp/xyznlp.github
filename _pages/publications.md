@@ -18,6 +18,9 @@ author_profile: true
 
 Publications
 ------
+- **Xuanyu Zhang**, Qing Yang. Deep View-Temporal Interaction Network for News Recommendation<br/>
+In the proceeding of **CIKM 2022**
+
 - **Xuanyu Zhang**, Qing Yang. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
 In the proceeding of **ACM MM 2021**
 
