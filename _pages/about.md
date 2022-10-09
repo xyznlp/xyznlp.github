@@ -20,6 +20,7 @@ News
 - December 2021: Our XuanYuan model, based on standard pipeline, surpassed other PLMs at the leaderboard of **KgCLUE** (Large-scale Knowledge Graph based QA Benchmark) on Dec 15, 2021.
 - April 2022: We won the championship at the **ogbl-wikikg2** leaderboard with our proposed **TranS** model. [\[Leaderboard\]](https://ogb.stanford.edu/docs/leader_linkprop/#ogbl-wikikg2) [\[Paper\]](https://arxiv.org/abs/2204.08401) [\[Code\]](https://github.com/xyznlp/TranS)
 - August 2022: One full paper on recommendation got accepted to **CIKM'22**.
+- October 2022: Two papers on knowledge graph and prompt learning got accepted to findings of **EMNLP'22**.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 <!-- <font color="red"> </font> --> 
 
