@@ -21,6 +21,12 @@ Publications
 - **Xuanyu Zhang**, Qing Yang. Deep View-Temporal Interaction Network for News Recommendation<br/>
 In the proceeding of **CIKM 2022**
 
+- **Xuanyu Zhang**, Qing Yang. TranS: Transition-based Knowledge Graph Embedding with Synthetic Relation Representation<br/>
+In the findings of **EMNLP 2022**
+
+- Jia Du, **Xuanyu Zhang**, et al. Instance-Guided Prompt Learning for Few-Shot Text Matching<br/>
+In the findings of **EMNLP 2022**
+
 - **Xuanyu Zhang**, Qing Yang. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
 In the proceeding of **ACM MM 2021**
 
