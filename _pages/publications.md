@@ -36,9 +36,6 @@ In the proceeding of **CIKM 2021**
 - **Xuanyu Zhang**, Qing Yang. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
 In the companion proceeding of **WWW 2021**
 
-- **Xuanyu Zhang**, Qing Yang. Transition-based Knowledge Graph Embedding with Synthetic Relation Representation<br/>
-In arXiv Preprint **2204.08401**
-
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
 In the proceeding of **AAAI 2020**
 
@@ -53,6 +50,9 @@ In the proceeding of **ACL 2019**
 
 - Chen Zhang, **Xuanyu Zhang**, Hao Wang. A Machine Reading Comprehension-Based Approach for Featured Snippet Extraction<br/>
 In the proceeding of **ICDM 2018**
+
+- Yiyang Li, Lei Li, Qing Yang, Marina Litvak, N. Vanetik, Dingxing Hu, Yuze Li, Yanquan Zhou, Dongliang Xu, **Xuanyu Zhang**. Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization<br/>
+In arXiv Preprint **2210.02804**
 
 Competitions
 ------
