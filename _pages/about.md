@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at DXM AI Lab. Previously, I obtained my master’s degree from Beijing Normal University. I was also an intern at Microsoft Research Asia, Microsoft Xiaoice, Tencent Wechat and 360 Search. I am broadly interested in **Natural Language Processing** (Question Answering, Machine Reading Comprehension, Semantic Parsing, Generation), **Recommendation System** (Sequential Recommendation, User Modeling), **Information Retrieval** and **Multi-Modal** (Vision & Language), etc. \[E-mail: xyz (-at~) mail.bnu.edu.cn\]
+I am a senior researcher at DXM AI Lab. Previously, I obtained my master’s degree from Beijing Normal University. I was also an intern at Microsoft Research Asia, Microsoft Xiaoice, Tencent Wechat and 360 Search. I am broadly interested in **Natural Language Processing** (Question Answering, Machine Reading Comprehension, Semantic Parsing, Generation), **Recommendation System** (Sequential Recommendation, User Modeling), **Information Retrieval** and **Multi-Modal** (Vision & Language), etc.
+<!-- \[E-mail: xyz (-at~) mail.bnu.edu.cn\] --> 
 
 News
 ======
@@ -22,7 +23,8 @@ News
 - August 2022: One full paper on recommendation got accepted to **CIKM'22**.
 - October 2022: Two papers on knowledge graph and prompt learning got accepted to findings of **EMNLP'22**.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
-<!-- <font color="red"> </font> --> 
+<!-- <font color="red"> </font> -->
+
 
 Publications & Competitions
 ======
