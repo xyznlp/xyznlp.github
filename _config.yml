@@ -84,11 +84,11 @@ author:
   avatar           : "xyz.png"
   bio              : "Senior Researcher"
   location         : "Beijing, China"
-  employer         : DXM AI Lab
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://www.semanticscholar.org/author/Xuanyu-Zhang/4874730"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "DXM AI-Lab"
+  pubmed           : "https://www.semanticscholar.org/author/Xuanyu-Zhang/4874730" #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=5_4D-FQAAAAJ"
+  email            : "xyz (-at~) mail.bnu.edu.cn"
+  researchgate     : "https://dl.acm.org/profile/99659732529" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://openreview.net/profile?id=~Xuanyu_Zhang1" #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
