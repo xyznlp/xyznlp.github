@@ -18,40 +18,40 @@ author_profile: true
 
 Publications
 ------
-- **Xuanyu Zhang**, Qing Yang. Deep View-Temporal Interaction Network for News Recommendation<br/>
+- **Xuanyu Zhang**, Q. Yang, D. Xu. Deep View-Temporal Interaction Network for News Recommendation<br/>
 In the proceeding of **CIKM 2022**
 
-- **Xuanyu Zhang**, Qing Yang. TranS: Transition-based Knowledge Graph Embedding with Synthetic Relation Representation<br/>
+- **Xuanyu Zhang**, Q. Yang, D. Xu. TranS: Transition-based Knowledge Graph Embedding with Synthetic Relation Representation<br/>
 In the findings of **EMNLP 2022**
 
 - Jia Du, **Xuanyu Zhang**, et al. Instance-Guided Prompt Learning for Few-Shot Text Matching<br/>
 In the findings of **EMNLP 2022**
 
-- **Xuanyu Zhang**, Qing Yang. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
+- **Xuanyu Zhang**, Q. Yang. Position-Augmented Transformers with Entity Mesh for TextVQA<br/>
 In the proceeding of **ACM MM 2021**
 
-- **Xuanyu Zhang**, Qing Yang. Dynamic Multi-Granularity Learning for BERT-Based Document Reranking<br/>
+- **Xuanyu Zhang**, Q. Yang. Dynamic Multi-Granularity Learning for BERT-Based Document Reranking<br/>
 In the proceeding of **CIKM 2021**
 
-- **Xuanyu Zhang**, Qing Yang. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
+- **Xuanyu Zhang**, Q. Yang, D. Xu. Combining Explicit Entity Graph with Implicit Text Information for News Recommendation<br/>
 In the companion proceeding of **WWW 2021**
 
 - **Xuanyu Zhang**. CFGNN: Cross Flow Graph Neural Networks for Question Answering on Complex Tables<br/>
 In the proceeding of **AAAI 2020**
 
-- **Xuanyu Zhang**, Zhichun Wang. Deep and Wide Interaction Networks for Machine Reading Comprehension (Student)<br/>
+- **Xuanyu Zhang**, Z. Wang. Deep and Wide Interaction Networks for Machine Reading Comprehension (Student)<br/>
 In the proceeding of **AAAI 2020**
 
-- Defu Cao, Jing Huang, **Xuanyu Zhang**, Xianhua Liu. FtclNet: Fourier Transform for Vulnerability Detection<br/>
+- Defu Cao, Jing Huang, **Xuanyu Zhang**, X. Liu. FtclNet: Fourier Transform for Vulnerability Detection<br/>
 In the proceeding of **TrustCom 2020**
 
 - **Xuanyu Zhang**. MC2: Multi-perspective Convolutional Cube for Conversational Machine Reading Comprehension<br/>
 In the proceeding of **ACL 2019** 
 
-- Chen Zhang, **Xuanyu Zhang**, Hao Wang. A Machine Reading Comprehension-Based Approach for Featured Snippet Extraction<br/>
+- Chen Zhang, **Xuanyu Zhang**, H. Wang. A Machine Reading Comprehension-Based Approach for Featured Snippet Extraction<br/>
 In the proceeding of **ICDM 2018**
 
-- Yiyang Li, Lei Li, Qing Yang, Marina Litvak, N. Vanetik, Dingxing Hu, Yuze Li, Yanquan Zhou, Dongliang Xu, **Xuanyu Zhang**. Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization<br/>
+- Y. Li, L. Li, Q. Yang, M. Litvak, N. Vanetik, D. Hu, Y. Li, Y. Zhou, D. Xu, **Xuanyu Zhang**. Just ClozE! A Fast and Simple Method for Evaluating the Factual Consistency in Abstractive Summarization<br/>
 In arXiv Preprint **2210.02804**
 
 Competitions
