@@ -18,6 +18,19 @@ author_profile: true
 
 Publications
 ------
+
+- **Xuanyu Zhang**, Q. Yang. XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters<br/>
+In the proceeding of **CIKM 2023**
+
+- **Xuanyu Zhang**, Z. Lv, Q. Yang. Adaptive Attention for Sparse-based Long-sequence Transformer<br/>
+In the findings of **ACL 2023**
+
+- **Xuanyu Zhang**, Q. Yang. Self-QA: Unsupervised Knowledge Guided Language Model Alignmentn<br/>
+In arXiv Preprint **2305.11952**
+
+- **Xuanyu Zhang**, B, Li, Q. Yang. CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains<br/>
+In arXiv Preprint **2305.14471**
+
 - **Xuanyu Zhang**, Q. Yang, D. Xu. Deep View-Temporal Interaction Network for News Recommendation<br/>
 In the proceeding of **CIKM 2022**
 
