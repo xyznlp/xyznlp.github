@@ -25,7 +25,7 @@ News
 - May 2023: One paper on long-sequence Transformer got accepted to findings of **ACL'23**.
 - May 2023: We open-sourced **XuanYuan 2.0**, the first Chinese financial chat model with hundreds of billions parameters. [\[Huggingface\]](https://huggingface.co/xyz-nlp/XuanYuan2.0)
 - August 2023: One paper on large language models got accepted to **CIKM'23**.
-- <img src="https://raw.githubusercontent.com/xyznlp/xyznlp.github.io/master/images/new.gif" alt="New" width="35" height="25"/> August 2023: We won the **outstanding** paper award at **IJCAI—FinLLM'23**.
+- <img src="https://xyznlp.github.io/images/new.gif" alt="New" width="35" height="25"/> August 2023: We won the **outstanding** paper award at **IJCAI—FinLLM'23**.
 <!-- - January 2021: I served as a reviewer for ACL'21. -->
 <!-- <font color="red"> </font> -->
 
