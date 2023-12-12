@@ -31,6 +31,9 @@ In arXiv Preprint **2305.11952**
 - **Xuanyu Zhang**, B, Li, Q. Yang. CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains<br/>
 In arXiv Preprint **2305.14471**
 
+- **Xuanyu Zhang**, Q. Yang. Generating Extractive Answers: Gated Recurrent Memory Reader for Conversational Question Answering<br/>
+In the findings of **EMNLP 2023**
+
 - **Xuanyu Zhang**, Q. Yang, D. Xu. Deep View-Temporal Interaction Network for News Recommendation<br/>
 In the proceeding of **CIKM 2022**
 
